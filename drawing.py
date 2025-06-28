@@ -1,0 +1,11 @@
+import turtle
+a=turtle.Screen()
+s=turtle.Turtle()
+s.forward(200)
+s.right(90)
+s.forward(200)
+s.right(90)
+s.forward(200)
+s.right(90)
+s.forward(200)
+a.exitonclick()
