@@ -1,0 +1,6 @@
+file=open('sample.py','r')
+print(file.read())
+file.close()
+file=open('sample.py','r')
+print(file.read(9))
+file.close()
